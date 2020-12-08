@@ -27,7 +27,7 @@ public class PostConfiguration {
 	@Bean
 	public GeoApiContext geoContext() {
 		return new GeoApiContext.Builder()
-	    .apiKey("AIzaSyCmWgf3jVVveOGgjq07_7EQdsywQI8TGMI")
+	    .apiKey("")
 	    .build();
 	}
 	
